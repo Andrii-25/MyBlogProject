@@ -1,0 +1,40 @@
+.list {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+.root {
+    max-width: 345;
+    margin-top: 50px;
+    border-color: black;
+    border: 5px;
+}
+.content {
+    height: 100px;
+}
+.cardGrid {
+    margin-top: 50px;
+}
+.mainFeaturePost {
+    position: relative;
+    color: white;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.mainFeaturePostContent {
+    position: relative;
+    padding: 15px;
+    color: white;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}

@@ -1,0 +1,16 @@
+.edit {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+.root {
+    width: 100%;
+}
+.text {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
